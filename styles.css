@@ -125,6 +125,7 @@ label {
   font-size: 1.1rem;
   font-weight: 600;
   border-radius: 12px;
+  display: none;
 }
 .error{
   background: linear-gradient(45deg, #ff6b6b, #ee5a2d);
@@ -132,4 +133,5 @@ label {
   padding: 15px;
   border-radius: 15px;
   margin-top: 20px;
+  display: none;
 }
